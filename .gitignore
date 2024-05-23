@@ -1,0 +1,8 @@
+/backend/node_modules
+/node_modules
+/backend/data
+/node_modules
+.vscode
+data.json
+cities.json
+.env
